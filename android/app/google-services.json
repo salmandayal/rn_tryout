@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "986177083308",
+    "project_id": "dyno-link-app",
+    "storage_bucket": "dyno-link-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986177083308:android:80330b9f9e2553ed3b0c09",
+        "android_client_info": {
+          "package_name": "com.tryout.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986177083308-7h28b6n1hk88as229g9tc2f5jrhbiklr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tryout.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "986177083308-bvhtjt690ueokd2ht05uaprlpj5i1l1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9ZoyCQxN3EzmeO-ZyVPKFTMr_5Cas-V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986177083308-bvhtjt690ueokd2ht05uaprlpj5i1l1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
